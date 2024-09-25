@@ -1,0 +1,84 @@
+* {
+  font-family: "PT Sans", sans-serif;
+}
+/* nav bar */
+.bg-navbar {
+  background-color: #413e37;
+}
+.navbar a,
+.navbar form {
+  color: #edebd7 !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.navbar-brand {
+  font-size: 20px !important;
+  line-height: 30px !important;
+}
+.navbar-nav a:hover {
+  border-bottom: 2px solid;
+}
+/* slider */
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: rgba(255, 255, 255, 0.8);
+}
+h5 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+.carousel p {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+}
+.active {
+  font-weight: bold;
+  border-bottom: 3px solid;
+}
+/* our mentors */
+.container p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.input-group-text {
+  background-color: #e2b23c;
+}
+h1 {
+  margin-left: 5%;
+  border-bottom: 1px solid #dee2e6;
+  margin-right: 5%;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+}
+/* footer */
+footer {
+  background-color: #edebd7;
+}
+footer a {
+  display: block !important;
+  color: #e2b23c;
+}
+h3 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #212529;
+}
+/* Full Stack Web Development Courses */
+.btn {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: #085ed6;
+}
